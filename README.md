@@ -101,3 +101,13 @@ I design systems that cross-examine technical execution with complex governance 
 <img src="https://raw.githubusercontent.com/kane610/kane610/master/assets/rainbow.gif" width="100%" height="3px">
 
 <img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/ecec7a4e-655a-497a-8d46-5123c5297684" />
+
+
+### Trademarks & Legal Notices
+| EARTH—I™ | Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ | Regeneration OS™ | Rhythm Engine™ | Return Metrics™ |
+
+| BIOPHYSICAL OS™ | INDUSTRIAL OS™ | ATMOSPHERIC OS™ | 
+
+| are trademarks of Earth‑I Ltd | ABN 15 698 228 692 | Australia | All rights reserved 2026 | 
+
+<img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/ecec7a4e-655a-497a-8d46-5123c5297684" />
